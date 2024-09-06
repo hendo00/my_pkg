@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/robo/ahmed_ws/install/my_pkg/include/**",
+        "/home/robo/ahmed_ws/install/br2_tracking/include/**",
+        "/home/robo/ahmed_ws/install/br2_tracking_msgs/include/**",
+        "/home/robo/ahmed_ws/install/br2_bt_patrolling/include/**",
+        "/home/robo/ahmed_ws/install/br2_bt_bumpgo/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/robo/ahmed_ws/src/br2_bt_bumpgo/include/**",
+        "/home/robo/ahmed_ws/src/br2_bt_patrolling/include/**",
+        "/home/robo/ahmed_ws/src/br2_fsm_bumpgo_cpp/include/**",
+        "/home/robo/ahmed_ws/src/br2_tf2_detector/include/**",
+        "/home/robo/ahmed_ws/src/br2_tracking/include/**",
+        "/home/robo/ahmed_ws/src/br2_vff_avoidance/include/**",
+        "/home/robo/ahmed_ws/src/my_package/include/**",
+        "/home/robo/ahmed_ws/src/my_pkg/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
